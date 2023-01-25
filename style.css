@@ -23,9 +23,11 @@ html, body {
 }
 
 header {
-    background-color: black;
+    background-image: url(assets/fundo-header.svg);
+    background-size: cover;
     color: white;
     text-align: center;
+    width: 100%;
 }
 
 header > h1 {
